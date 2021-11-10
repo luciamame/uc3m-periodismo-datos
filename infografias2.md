@@ -1,10 +1,10 @@
-# Tarea 2. Infografías **11-11-21**
+# Tarea 2. Infografías *11-11-21*
 
 Para hacer este ejercicio he elegido dos infografías que tienen que ver con temas de actualidad y que he encontrado en medios digitales. 
 
-## (Infografía 1)[https://ielektro.es/2021/11/09/infografia-posibles-causas-de-un-gran-apagon/]
+## [Infografía 1](https://ielektro.es/2021/11/09/infografia-posibles-causas-de-un-gran-apagon/) 
 
-Esta infografía fue publicada el pasado 9 de noviembre junto a una entrada en la página web (ielektro.es)[https://ielektro.es/] que comenta las posibles causas del apagón que se prevé 
+Esta infografía fue publicada el pasado 9 de noviembre junto a una entrada en la página web [ielektro.es](https://ielektro.es/) que comenta las posibles causas del apagón que se prevé 
 que sufrirá Europa en los próximos meses. La infografía me ha llamado la atención por distintos motivos: 
 - Síntesis &rarr; La infografía explica la información esencial sobre el apagón. 
 1. Qué es 
@@ -30,9 +30,9 @@ los esenciales y su propósito es, sobre todo, facilitar la compresión y acompa
 pero se han molestado en modernizarlo y hacerlo más atractivo a la vista. En él se diferencian los porcentajes de energías renovables *(41,6%)* y de no renovables *(58,4%)* y se 
 detallan los porcentajes de todos los tipos de energías de las que dispone el país: Carbón *(3.8%)*, Hidráulica *(16.4%)*, Eólica *(20.3%)*, ...
 
-## (Infografía 2)[https://boyaca7dias.com.co/2021/11/09/infografia-reapertura-total-para-viajeros-vacunados/]
+## [Infografía 2](https://boyaca7dias.com.co/2021/11/09/infografia-reapertura-total-para-viajeros-vacunados/)
 
-Esta infografía se publicó el día 9 de noviembre en la edición online del periódico colombiano (Boyacá 7 Días)[https://boyaca7dias.com.co/]. La noticia a la que acompaña trata sobre la 
+Esta infografía se publicó el día 9 de noviembre en la edición online del periódico colombiano [Boyacá 7 Días](https://boyaca7dias.com.co/). La noticia a la que acompaña trata sobre la 
 reapertura total de Estados Unidos para viajeros extranjeros vacunados. 
 La razón por la que he escogido esta infografía es que está muy completa:
 
