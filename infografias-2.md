@@ -1,4 +1,4 @@
-# Tarea 2. Infografías *11-11-21*
+# Tarea 2. Infografías 
 
 Para hacer este ejercicio he elegido dos infografías que tienen que ver con temas de actualidad y que he encontrado en medios digitales. 
 
