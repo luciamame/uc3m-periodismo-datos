@@ -20,7 +20,7 @@ esta pieza viven en España por lo que se ha explicado el modo en que el apagón
 
 - Elección de colores &rarr; Considero que la elección de colores, aunque arriesgada, es acertada. Con el negro se simula el apagón y con el azul brillante a la luz. Igualmente, se 
 utilizan distintas tonalidades de azul en el diagrama circular en el que se detallan los porcentajes de las fuentes de suministro de energía de España. Por otra parte, el color blanco 
-se utiliza en en palabras y números para que contrasten con el fondo negro.
+se utiliza en palabras y números para que contrasten con el fondo negro.
 
 - Juego de tipografías &rarr; En la infografía encontramos distintos tipos de letras, con distinto tamaño y color. Estas variaciones dinamizan la visualización de la infografía. 
 Además, ayudan a los lectores a saber que se ha cambiado de tema. 
@@ -28,7 +28,7 @@ Además, ayudan a los lectores a saber que se ha cambiado de tema.
 - Elección de iconos &rarr; A pesar de que la infografía es muy sobria, puesto que el tema que trata es bastante serio, creo que los iconos se han empleado muy bien. Se han utilizado 
 los esenciales y su propósito es, sobre todo, facilitar la compresión y acompañar al texto. No se resalta una cosa sobre la otra, simplemente se complementan. 
 
-- Gráfico &rarr; Me ha llamado mucho la atención el gráfico sobre las fuentes de suministro de enregía de España. Creo que se reconoce a la perfección que es un diagrama de sectores 
+- Gráfico &rarr; Me ha llamado mucho la atención el gráfico sobre las fuentes de suministro de energía de España. Creo que se reconoce a la perfección que es un diagrama de sectores, 
 pero se han molestado en modernizarlo y hacerlo más atractivo a la vista. En él se diferencian los porcentajes de energías renovables *(41,6%)* y de no renovables *(58,4%)* y se 
 detallan los porcentajes de todos los tipos de energías de las que dispone el país: Carbón *(3.8%)*, Hidráulica *(16.4%)*, Eólica *(20.3%)*, ...
 
@@ -46,14 +46,14 @@ restringidos y el azul claro en los que no hay restricciones.
 
 2. Iconos e imágenes &rarr; Se usan muchos iconos como el candado, la señal de prohibido y los símbolos de *tick* y *cross*. Estos son muy visuales y como también se resaltan del resto 
 de la infografía por sus colores y tamaño, atraen la vista de los lectores. Por otra parte, el hecho de que aparezcan imágenes me ha sorprendido pues no es algo que vea a menudo en las 
-infografías. En este caso vemos las imágenes de las banderas de distintos países y los logos de disitntas empresas que han desarrollado vacunas contra el COVID-19. 
+infografías. En este caso vemos las imágenes de las banderas de distintos países y los logos de distintas empresas que han desarrollado vacunas contra el COVID-19. 
 
 3. Síntesis &rarr; Nuevamente me llama la atención la manera en la que se ha resumido y sintetizado la información, incluyendo en la infografía la información y los datos más 
 relevantes e imprescindibles. 
 
 4. Organización &rarr; En la infografía se tratan distintos temas: vacunas aceptadas por Estados Unidos, las que no lo son, qué se requiere para entrar en EEUU, la situación de la 
-vacunación en el país, ... Con tanta información y tan varida es normal que quienes la lean se confundan, pero precisamente para evitar esto cada tema está seprado del resto con un 
-título llamativo en medío de una línea y por una línea discontinua de color gris que separa el espacio. 
+vacunación en el país, ... Con tanta información y tan variada es normal que quienes la lean se confundan, pero precisamente para evitar esto cada tema está separado del resto con un 
+título llamativo en medio de una línea y por una línea discontinua de color gris que separa el espacio. 
 
 5. Tipografía y resaltado &rarr; El tipo de letra que se utiliza en el grueso de la infografía es el mismo y el de los títulos también es igual. Sin embargo, es cierto que algunos 
 se resaltan utilizando la negrita o un sombreado de color gris. 
