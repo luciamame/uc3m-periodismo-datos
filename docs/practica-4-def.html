@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="es" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Lucía Marrero">
+    <meta name="generator" content="nano">
+    <title>Sticky Footer Navbar Template · Bootstrap v5.1</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="css/sticky-footer-navbar.css" rel="stylesheet">
+  </head>
+  <body class="d-flex flex-column h-100">
+    
+<header>
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Lucía Marrero Medina</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Índice</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="infografia-1.html">Infografía 1</a>
+          </li>
+<li class="nav-item">
+             <a class="nav-link" href="infografia-2.html">Ínfografía 2</a>
+           </li>
+<li class="nav-item">
+             <a class="nav-link" href="practica-4.html">Práctica 4</a>
+          </li>
+<li class="nav-item">
+            <a class="nav-link" href="memoria.html">Memoria</a>
+</li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Begin page content -->
+<main class="flex-shrink-0">
+  <div class="contai<ner">
+<h1 id="práctica-4.-tu-historia-de-periodismo-de-datos">Práctica 4. Tu historia de Periodismo de Datos</h1>
+<p>Elección de datos. Para realizar los gráficos de esta práctica he escogido los datos del INE sobre <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=25998">delitos según sexo</a>. Como la tabla tenía muchos datos desde la propia página del INE he seleccionado los que me interesaban. Concretamente, he trabajado con los datos de delitos <strong>Contra el patrimonio y el orden socioeconómico</strong>, en el periodo de 2015 a 2020. Mi elección se basa en la curiosidad por indagar en este tema, pues no estoy muy familiarizada con él y, tal y como me esperaba, las cifras son bastante reveladoras.</p>
+<h2 id="gráfico-1">Gráfico 1</h2>
+<figure>
+<img src="https://github.com/luciamame/uc3m-periodismo-datos/blob/main/img/delitos-a%C3%B1o.png" alt="Gráfico 1" /><figcaption aria-hidden="true">Gráfico 1</figcaption>
+</figure>
+<p>Para este primer gráfico he descargado la selección de <em>Delitos contra el patrimonio y el orden socioeconómico</em>, en el periodo de 2015-2020, teniendo en cuenta solo el total, es decir, sin escoger <em>Hombres</em> y <em>Mujeres</em> desde la página web del INE. Una vez descargado, he abierto el programa Open Refine. Como los datos ya aparecían en forma de tabla no he tenido que cambiar nada antes de empezar a crear el proyecto. Una vez hecho esto, he eliminado las columnas 7, 8, 9 y 10 porque no me hacían falta. También he ido seleccionando con la estrellas las filas que o bien estaban vacías, o bien no necesitaba. Para hacer esto, he pinchado en la cabecera de la primera columna (<em>Alll</em>) y he puesto facet by star para poder borrar los datos que no necesitaba. Por otra parte, he renombrado las columnas 2, 3, 4, 5 y he dado a cada una de ellas una año, desde 2015 a 2020. Igualmente, la columna 1 tenía el nombre de <em>Resultados Nacionales</em> y yo lo cambié por <em>Delitos contra el patrimonio y el orden socioeconómico</em>. Finalmente, he exportado el documento y lo he abierto en Excel puesto que no sabía cómo hacer los cambios que quería en Open Refine. Lo que he hecho en Excel ha sido eliminar las filas de <em>Total</em> porque en ellas había espacios en blanco. Para ello, he puesto directamente la cifra de totales bajo las columnas de su año correspondiente y junto al título da cada tipo de delito. De esta manera logré deshacerme de todos los huecos en blanco. Tras hacer esto, he subido mis datos a Datawrapper, donde he jugado con varios gráficos y visualizaciones hasta encontrar la que consideraba más adecuada para mis datos:</p>
+<ul>
+<li>Tipo de gráfico → He escogido un gráfico de sectores múltiple. Cada uno de ellos corresponde a un año distinto. De bajo del año al que pertenecen he creído oportuno poner el total de delitos contra el patrimonio cometidos en cada uno de los años para que quienes lo vean puedan darse cuenta, a simple vista, de de la diferencia entre unos y otros. Cada fragmento pertenece a un tipo concreto de delito: Hurtos, Usurpación, Robos, … Además, dentro de cada “queso” aparecen el porcentaje de ese delito sobre el total de los cometidos en cada año. Así, quienes consulten el gráfico pueden evidenciar fácilmente cómo es la tendencia de cada tipo de delito en este periodo de tiempo. También cuales son los más y los menos cometidos.</p>
+<li>Elección de colores → En cuanto a la elección de colores, me he decantado por una escala cromática de rojos, puesto que es un color que se suele relacionar con la violencia y con lo prohibido. Básicamente, he ido cambiando los colores de la escala gradualmente para que todos sigan la misma gama cromática y que la diferenciación no sea drástica, pero de manera que no se confundan entre ellos.</li>
+</ul>
+<p>Finalmente,decir que la herramienta Dattawrapper me ha complicado un poco la realización de este gráfico ya que en los gráficos de sectores no he podido poner todos los datos por separados. 3 de ellos se encuentran reunidos bajo la etiqueta <em>Otros</em> puesto que si los ponía todos no aparecían los porcentajes ( ni siquiera cuando pinchaba en un queso en concreto) y esto dificultaba la comprensión del gráfico.</p>
+<h2 id="gráfico-2">Gráfico 2</h2>
+<figure>
+<img src="https://github.com/luciamame/uc3m-periodismo-datos/blob/main/img/tipos-robos-sexos-2020.png" alt="Gráfico 2" /><figcaption aria-hidden="true">Gráfico 2</figcaption>
+</figure>
+<p>Para realizar este gráfico, he vuelto a descargar los datos del INE pero esta vez excluyendo el total, porque la primera vez tan solo descargué el total y para este gráfico me interesa saber la diferencia entre <em>Hombres</em> y <em>Mujeres</em>. Una vez hecho esto, filtro por la faceta texto , puesto que los años no los entiende como cifras. Aunque podría haber cambiado el formato de los años a fecha no me interesaba porque solo iba a necesitar los datos del año 2020. Por eso, filtro y me quedo con los datos de dicho año. Luego, filtro la columna <em>Tipos de Delito</em> y elijo las filas de <em>Robos con fuerza</em> y <em>Robos con violencia</em>. Las dos filas de <em>Robos</em> no me interesa porque es simplemente la suma de <em>Robos con fuerza</em> y <em>Robos con violencia</em> por un lado en hombres y por otro en mujeres. El “problema” ahora es que las filas <em>Robos con fuerza</em> y <em>Robos con violencia</em> están duplicadas, puesto que una cuenta los hombres y la otra a las mujeres. Por esto exporto los datos y los abro con Excel. Allí lo que hago es poner los datos de hombres y mujeres bajo el tipo de robo correspondiente. Luego, ya en Datawrapper, escojo el gráfico de donuts múltiple:</p>
+<ul>
+<li><p>Tipo de gráfico → Considero que este diseño es una buena elección para representar estos datos ya que se puede apreciar de manera muy clara la diferencia entre un tipo de robo y otro según cada sexo. Además, preferí poner la cifra en lugar de los porcentajes porque visualmente ambos gráficos son muy parecidos pero lo cierto es que el porcentaje de mujeres que fueron condenadas por robo el pasado año es notablemente inferior al de los hombres condenados por este mismo delito. Por esto mismo también me decidí a poner el total, que no tuve que calcular porque Datawrapper te lo da automáticamente. A pesar de ser un gráfico muy sencillo, creo que evidencia los datos a los que se refiere de manera clara.</p></li>
+<li><p>Elección de colores → En este caso, he decidido arriesgar y escoger dos colores bastante chocantes, e incluso violentos. No obstante, la elección puede justificarse con el tema de los datos, pues se refieren a robos con fuerza y con violencia. Para los robos con violencia he optado por un color gris oscuro mientras que para los robos con violencia he optado por un rojo granate para representar, precisamente, la violencia.</p>
+</ul>
+<h2 id="gráfico-3">Gráfico 3</h2>
+<figure>
+<img src="https://github.com/luciamame/uc3m-periodismo-datos/blob/main/img/grafico-datos.png" alt="Gráfico 3" /><figcaption aria-hidden="true">Gráfico 3</figcaption>
+</figure>
+<p>Al realizar el gráfico anterior quedé muy sorprendida con la enorme diferencia que hay entre mujeres y hombres en el delito de robo, concretamente en el subtipo de robos con violencia. Por ello decidí hacer un gráfico que reflejara la evolución de este tipo de robos, por sexo, en el periodo de 2015 a 2020. Para ello utilicé los datos anteriores, que ya tenía en Open Refine. Quité la faceta de texto 2020 y ordené dicha columna mediante la herramienta sort. Desde dicha pestaña puse que los números de la columna eran fechas y que las quería ordenar de más antiguas a menos. Por otra parte, filtré la columna de delitos para quedarme simplemente con los datos de <em>Robos con violencia</em>. Tras hacer esto, los datos estaban listos para ser exportados. Una vez descargado el archivo, en Excel agrupé los datos tanto de hombres como de mujeres según el año ya que en Open Refine me aparecía cada año dos veces, una vez en hombres y otra en mujeres. Cuando ya estaban ordenados empecé a diseñar en Datawrapper:</p>
+<ul>
+<li><p>Tipo de gráfico → En esta ocasión elegí un gráfico de barras agrupadas. Encima de cada año hay dos barras, una representa a los hombres que han cometido este delito en dicho año y otra a las mujeres. Lo cierto es que es muy sencillo pero de un solo vistado se puede evidenciar la difrencia tan grande en el número de hombres y mujeres que cometen este delito y, a suveces, cómo han hido cambiando estas cifras a lo largo de estos seis años.</p></li>
+<li><p>Elección de colores → Basicamente he escogido el color azul para representar a los hombres y un color rosado para representar a las mujeres. A pesar de que esto sea sexista (al menos para mi) lo cierto es que para quienes vean el gráfico es muy sencillo relacionar el azul con los hombres y el rosa con las mujeres.</p></li>
+</ul>
+<p>Creo que esta práctica me ha servido para experimentar tanto con Open Refine como con Datawrapper. Ambas herramientas se pueden utilizar en otras asignaturas y son bastante útiles si pretendes hacer un visualización de datos.</p>
+
+  </div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container">
+    <span class="text-muted">Trabajo final Periodismo de Datos</span>
+  </div>
+</footer>
+
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
+
